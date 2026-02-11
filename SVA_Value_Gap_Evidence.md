@@ -1,5 +1,5 @@
 For detailed empirical grounding of the Value Gap & Definition claim, see
-[VALUE_GAP_EVIDENCE.md](./VALUE_GAP_EVIDENCE.md).
+[VALUE_GAP_EVIDENCE.md](./SVA_Value_Gap_Evidence.md).
 
 Empirical Grounding of the “Value Gap”& Definition Claim
 Author: V.M. Benignus Grero (Gero) Date: February 2026 License: CC BY‑NC‑ND 4.0
