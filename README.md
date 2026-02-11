@@ -1,4 +1,4 @@
-# SVA-Strategic-Value-Architecture
+# SVA-Strategic-Value-Architecture©
 
 [Download the SVA monograph (PDF)](Strategic_Value_Architecture__SVA___A_Practitioner_Developed_Management_Methodology_and_Its_Position_within_Strategic_Management_Literature.pdf)
 
