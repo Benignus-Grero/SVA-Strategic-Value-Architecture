@@ -97,6 +97,7 @@ Numerous behavioural and trading‑psychology studies document a persistent “k
 
 
 📈 The Convergence Zone
+
 When major studies are placed on a common scale, they converge on a 30–35% performance penalty for the strategy‑execution disconnect:
 Source	Metric	Value	Year	Link
 McKinsey (via Bizzdesign, plus synthesis)	Value delivered vs. strategy promise / lost returns	≈20–30% less / lost	2024–25	https://bizzdesign.com/blog/bridging-strategy-execution-gap-enterprise-transformation
