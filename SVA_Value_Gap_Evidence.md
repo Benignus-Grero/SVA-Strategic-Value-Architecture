@@ -116,6 +116,9 @@ SVA’s 15–30% range captures:
 | PMI/EIU                                   | Spend on strategic initiatives wasted                          | ≈15%                | 2015    | https://www.pmtoday.co.uk/project-management-institute-warns-strategy-failure-gap-is-widening/ pmtoday​                                                                                       |
 | Bain                                      | Business transformations fail to achieve ambitions             | 88% fail            | 2024    | https://www.bain.com/es/about/media-center/press-releases/2024/88-of-business-transformations-fail-to-achieve-their-original-ambitions-those-that-succeed-avoid-overloading-top-talent/ bain​ |
 | HBS / Kaplan‑Norton                       | Strategic plans not executed successfully                      | up to 90%           | various | https://online.hbs.edu/blog/post/why-do-strategic-plans-fail                                                                                                                                  |
+
+
+
 📌 Copyright & Attribution
 © 2025–2026 V.M. Benignus Grero (Grero)
 This work is licensed under a Creative Commons Attribution‑NonCommercial‑NoDerivatives 4.0 International License. You may share it unchanged with attribution for non‑commercial purposes.
