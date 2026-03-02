@@ -1,4 +1,8 @@
 ---
+<head>
+  <meta name="google-site-verification" content="Hqg1SVkQPuKh0g6A653lLj_PGig1m2j82js61TuXg4g" />
+</head>
+
 title: "SVA-Strategic-Value-Architecture©"
 description: "Strategic Value Architecture (SVA)© – management methodology and comprehensive analysis for value‑driven transformation, in development since Nov 2025 and currently in pre‑publication; planned as the conceptual foundation for a future AI‑supported synthesis."
 ---
